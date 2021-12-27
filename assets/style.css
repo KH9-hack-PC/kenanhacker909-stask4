@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: none;
+}
+.span1{
+    color: rgb(104, 99, 99) ;
+}
+header{
+    background-image: url('../images/sea.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.title1 h1 , span{
+    font-size: 60px;
+}
+.title1{
+    text-align: center;
+    padding: 250px;
+}
+.but1{
+    outline: none;
+    background-color: green;
+    width: 400px;
+    font-size: 32px;
+    padding: 60px;
+    color: white;
+}
+.p1{
+    text-align: center;
+    font-size: 32px;
+}
